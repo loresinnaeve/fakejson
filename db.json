@@ -1,21 +1,22 @@
 {
-  "events": [{
-    "id":1,
-    "category": "concert",
-    "title": "Tomorrow Land",
-    "description": "festival op De Schorre",
-    "location": "Boom",
-    "date": "Augustus 08 2021",
-    "time": "09.00"
-  },
+  "events":[
+    {
+      "id": 1,
+      "category":"concert",
+      "title": "Tomorrow Land",
+      "description": "Festival op de Schorre",
+      "location": "Boom",
+      "date": "August 08 2021",
+      "time": "09:00"
+    },
     {
       "id": 2,
-      "category": "concert",
-      "title": "Rock Werchter",
-      "description": "festival Rock",
-      "location": "Werchter",
-      "date": "Juli 04 2021",
-      "time": "10.00"
-    },
+      "category":"concert",
+      "title": "Rock Wechter",
+      "description": "Festival Rock",
+      "location": "Wrechter",
+      "date": "July 04 2021",
+      "time": "09:00"
+    }
   ]
 }
