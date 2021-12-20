@@ -17,6 +17,24 @@
       "location": "Wrechter",
       "date": "July 04 2021",
       "time": "09:00"
+    },
+    {
+      "id": 3,
+      "category":"concert",
+      "title": "Pukkelpop",
+      "description": "Festival Rock",
+      "location": "Torhout",
+      "date": "July 12 2021",
+      "time": "09:00"
+    },
+    {
+      "id": 4,
+      "category":"concert",
+      "title": "Schippersweekend",
+      "description": "Festival Rock",
+      "location": "Lauwe",
+      "date": "Sept 20 2021",
+      "time": "09:00"
     }
   ]
 }
